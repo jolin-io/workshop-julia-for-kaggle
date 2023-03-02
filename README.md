@@ -2,14 +2,14 @@
 <img src="https://www.jolin.io/assets/Jolin/Jolin-Banner-Website-v1.1-darkmode.webp">
 </a>
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/jolin-io/workshop-julia-for-kaggle/main?filepath=introduction.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jolin-io/workshop-julia-for-kaggle/main?filepath=introduction.ipynb)
 
 
 # Julia for Kaggle Introduction
 
 Welcome to my little workshop about how to use Julia for Kaggle competitions.
 
-1. [Start your hands-on julia introduction notebook.](https://notebooks.gesis.org/binder/v2/gh/jolin-io/workshop-julia-for-kaggle/main?filepath=introduction.ipynb)
+1. [Start your hands-on julia introduction notebook.](https://mybinder.org/v2/gh/jolin-io/workshop-julia-for-kaggle/main?filepath=introduction.ipynb)
 2. [See how to use Julia directly at Kaggle](https://www.kaggle.com/stephansahm/titanic-tutorial-julia-version)
 
 
